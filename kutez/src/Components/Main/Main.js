@@ -7,10 +7,9 @@ const Main = () => {
             <div id='Main'>
                 <h1>The Company</h1>
                 <h2>Shpipping Time Calculator</h2>
-                <input type='date' />
-                <input type='dropdown' />
+                <MainContent />
             </div>
-            <MainContent />
+            <div id='Gradient'></div>
         </>
     )
 }

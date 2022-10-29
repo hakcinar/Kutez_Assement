@@ -1,3 +1,28 @@
-#Main span{
-    
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+input {
+  margin: 0px;
+  padding: 0px;
+}
+
+#Main {
+  padding-left: 10em;
+  padding-top: 3em;
+  padding-bottom: 13em;
+  width: 75%;
+  height: 100vh;
+  border-top-right-radius: 120px;
+  border-bottom-right-radius: 120px;
+  background-color: white;
+}
+#Gradient {
+  height: 100vh;
+  width: 25%;
+  background-color: purple;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
